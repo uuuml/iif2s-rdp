@@ -1,4 +1,4 @@
-name: iif2sRDP
+name: iiif2sRDP
 
 on: workflow_dispatch
 
